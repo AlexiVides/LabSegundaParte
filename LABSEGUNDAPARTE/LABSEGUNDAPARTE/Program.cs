@@ -17,11 +17,11 @@ namespace LABSEGUNDAPARTE
             String nombre = Console.ReadLine();
             Console.WriteLine("Escribe tu Edad: ");
             int edad =Convert.ToInt32( Console.ReadLine());
-            Console.WriteLine("Escribe tu Sexo: ");
+            Console.WriteLine("Escribe tu Sexo (Masculino o Femenino): ");
             String sexo = Console.ReadLine();
-            Console.WriteLine("Escribe tu Peso: ");
+            Console.WriteLine("Escribe tu Peso(kg): ");
             Double peso = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Escribe tu Altura: ");
+            Console.WriteLine("Escribe tu Altura(m): ");
             Double altura = Convert.ToDouble(Console.ReadLine());
 
             Persona persona = new Persona(nombre,edad,sexo,peso,altura);
