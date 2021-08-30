@@ -25,7 +25,7 @@ namespace LABSEGUNDAPARTE.Negocio
 
         public string esMayorDeEdad(Persona persona)
         {
-            if (persona.Edad > 18)
+            if (persona.Edad >= 18)
             {
                 return "Es mayor de Edad";
             }
