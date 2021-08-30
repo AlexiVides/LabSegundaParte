@@ -1,0 +1,7 @@
+C:\Users\ns_al\Documentos\GitHub\LabSegundaParte\LABSEGUNDAPARTE\LABSEGUNDAPARTE\bin\Debug\LABSEGUNDAPARTE.exe.config
+C:\Users\ns_al\Documentos\GitHub\LabSegundaParte\LABSEGUNDAPARTE\LABSEGUNDAPARTE\bin\Debug\LABSEGUNDAPARTE.exe
+C:\Users\ns_al\Documentos\GitHub\LabSegundaParte\LABSEGUNDAPARTE\LABSEGUNDAPARTE\bin\Debug\LABSEGUNDAPARTE.pdb
+C:\Users\ns_al\Documentos\GitHub\LabSegundaParte\LABSEGUNDAPARTE\LABSEGUNDAPARTE\obj\Debug\LABSEGUNDAPARTE.csproj.AssemblyReference.cache
+C:\Users\ns_al\Documentos\GitHub\LabSegundaParte\LABSEGUNDAPARTE\LABSEGUNDAPARTE\obj\Debug\LABSEGUNDAPARTE.csproj.CoreCompileInputs.cache
+C:\Users\ns_al\Documentos\GitHub\LabSegundaParte\LABSEGUNDAPARTE\LABSEGUNDAPARTE\obj\Debug\LABSEGUNDAPARTE.exe
+C:\Users\ns_al\Documentos\GitHub\LabSegundaParte\LABSEGUNDAPARTE\LABSEGUNDAPARTE\obj\Debug\LABSEGUNDAPARTE.pdb

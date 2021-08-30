@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LABSEGUNDAPARTE.Negocio
 {
-    class NclsPersona
+    class NClsPersona
     {
         public String calcularIMC(Persona persona) 
         {
