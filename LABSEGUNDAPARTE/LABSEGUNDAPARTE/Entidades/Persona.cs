@@ -49,10 +49,10 @@ namespace LABSEGUNDAPARTE.Entidades
         public override string ToString()
         {
             return "Nombre: " + Nombre +
-                "\nEdad: " + Edad + "años" +
+                "\nEdad: " + Edad + " años" +
                 "\nSexo: "+ Sexo + 
-                "\nPeso: " + Peso + "Kg"+
-                "\nAltura: " + Altura+ "m";
+                "\nPeso: " + Peso + " Kg"+
+                "\nAltura: " + Altura.ToString("0.00") + " m";
         }
     }
 }
