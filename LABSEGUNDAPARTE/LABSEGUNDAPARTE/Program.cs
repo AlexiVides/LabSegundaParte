@@ -33,7 +33,7 @@ namespace LABSEGUNDAPARTE
             //CALCULAR IMC
             Console.WriteLine(nclsPersona.calcularIMC(persona));
             //MAYOR O MENOR
-            Console.WriteLine(nclsPersona.esMayorDeEdad(persona));
+            Console.WriteLine(nclsPersona.esMayorDeEdad(persona1));
 
 
             Console.WriteLine(persona.ToString());
